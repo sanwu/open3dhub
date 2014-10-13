@@ -1,0 +1,6 @@
+{
+  "name": "open3dhub",
+  "devDependencies": {
+    "grunt-node-webkit-builder": "^0.2.3"
+  }
+}

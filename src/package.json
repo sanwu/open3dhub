@@ -1,0 +1,23 @@
+{
+    "name": "open3dhub",
+    "version": "0.1.0",
+    "main": "index.html",
+    "description": "一套开源的3d资源分享工具",
+    "keywords": [ "3d", "open3d","3d resource share" ],
+    "window": {
+        "title": "open3dhub",
+        //"icon": "link.png",
+        "toolbar": false,
+        "frame": true,
+        "width": 800,
+        "height": 500,
+        "position": "mouse",
+        "min_width": 400,
+        "min_height": 200,
+        "max_width": 800,
+        "max_height": 600
+    },
+    "webkit": {
+        "plugin": true
+    }
+}
