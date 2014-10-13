@@ -7,3 +7,7 @@ fs.readFile('./package.json', function (err, data) {
     if (err) throw err;
     document.write(data);
 });
+
+var async=require('async');
+
+var myAddon = require('my_node_addon');
