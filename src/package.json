@@ -6,7 +6,6 @@
     "keywords": [ "3d", "open3d","3d resource share" ],
     "window": {
         "title": "open3dhub",
-        //"icon": "link.png",
         "toolbar": false,
         "frame": true,
         "width": 800,
